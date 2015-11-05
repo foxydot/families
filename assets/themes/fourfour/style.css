@@ -1,0 +1,129 @@
+/*
+    Theme Name: FourFour
+	Theme URI: http://msdlab.com/
+	Description: Custom theme for the Genesis Framework.
+    Author: Mad Science Dept.
+    Author URI: http://msdlab.com/
+ 
+    Version: 2.1.2
+  
+	License: GNU General Public License v2.0 (or later)
+	License URI: http://www.opensource.org/licenses/gpl-license.php
+*/
+body {
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica; 
+	font-size: 12px;
+	line-height: 18px;
+	background: url('img/clouds.gif');
+	background-color: #c5ccd2;
+	margin: 0; 
+	padding: 0;
+	text-align: center;
+	min-width: 1000px;  }
+#wrapper {
+	margin: 0 auto;
+	width: 1000px;
+	text-align: left;
+	overflow: auto; }   
+
+h1 {
+	font-family: Times New Roman, Times, Serif;
+	font-size: 24px;
+	line-height: 28px;
+	color: #993366; }
+h2 {
+	font-family: Times New Roman, Times, Serif;
+	font-size: 18px;
+	line-height: 24px;
+	margin-bottom: 0;
+	color: #993366; }
+h2.black {
+	color: #000000; }
+h3 {
+	font-family: Times New Roman, Times, Serif;
+	font-size: 18px;
+	line-height: 24px;
+	margin-bottom: 0;
+	color: #8d57a0; }
+
+	
+.color {
+	color: #993366;
+	font-weight: bold; }
+	
+	
+	
+	
+	
+	
+	
+#nav {
+	float: left;
+	width: 140px;
+	padding-left: 3px;  }
+	
+#main {
+	float: left;
+	width: 526px; }
+#main div {
+	padding: 0 15px; } 
+
+#right {
+	float: left;
+	width: 329px;
+	height: 715px;
+	background:url('img/flower1.jpg') no-repeat; }
+#right div {
+	padding: 540px 0 0 90px;  }
+	
+	
+#mission {
+	padding: 20px 150px 0 160px;
+	color: #993366;  }
+	
+	
+	
+	
+/* FOOTER  */		
+#footer  {
+	margin: 0 auto;
+	width: 1000px;
+	text-align: left;
+	padding-top: 10px; }
+#footer p {	
+	text-align: center;}
+	
+body.home {
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica; 
+	font-size: 12px;
+	line-height: 18px;
+	background-color: #c5ccd2;
+	margin: 0; 
+	padding: 0;
+	text-align: center;
+	min-width: 900px;  }
+.home #wrapper {
+	margin: 0 auto;
+	width: 900px;
+	text-align: left;
+	background-color: #ffffff;
+	padding-bottom: 15px;
+	border: 2px solid #ffffff;
+	overflow: auto; }   
+
+	
+	
+	
+	
+	
+	
+/* FOOTER  */		
+.home #footer  {
+	margin: 0 auto;
+	width: 900px;
+	text-align: left;
+	padding-top: 10px; }
+.home #footer p {	
+	text-align: center;}
